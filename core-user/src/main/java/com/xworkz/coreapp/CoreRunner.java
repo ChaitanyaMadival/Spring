@@ -59,8 +59,6 @@ public class CoreRunner {
 //        Internet internet1 = applicationContext.getBean("i", Internet.class);
 //        System.out.println(internet1);
 
-        // List<UserDto> user = ac.getBean();
-
         System.out.println(age);
         System.out.println(pincode);
 
