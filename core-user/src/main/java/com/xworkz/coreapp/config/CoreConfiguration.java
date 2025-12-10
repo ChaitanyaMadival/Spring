@@ -46,13 +46,6 @@ public class CoreConfiguration {
         return new Internet();
     }
 
-//    List<userDto> //35
-//    15 user list.add(new )
-//
-//
-//       public List<UserDto> getUser)(){
-//        List<> user = new ArrayList<>();
-
     }
 
 
